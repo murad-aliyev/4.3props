@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+.wine{
+    width: 400px;
+    height: 190px;
+    border: solid black 2px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-weight: 900;
+}
+p{
+    font-style: italic;
+    color: gray;
+}
